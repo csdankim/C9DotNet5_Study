@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/Basics
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/Basics.deps.json
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/Basics.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/ref/Basics.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/bin/Debug/net5.0/Basics.pdb
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/ref/Basics.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.pdb
+/mnt/c/Users/iuxda/Documents/code/Chapter02/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache

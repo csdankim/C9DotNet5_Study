@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.deps.json
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/ref/HelloCS.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.pdb
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/ref/HelloCS.dll
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.pdb
+/mnt/c/Users/iuxda/Documents/code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csproj.CoreCompileInputs.cache

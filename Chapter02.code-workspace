@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "../Code/Chapter02/Variables"
+		},
+		{
+			"path": "../Code/Chapter02/Arrays"
+		},
+		{
+			"path": "../Code/Chapter02/NullHandling"
 		}
 	],
 	"settings": {}

@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/Arrays
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/Arrays.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/bin/Debug/net5.0/Arrays.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

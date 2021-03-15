@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/Variables
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/ref/Variables.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/ref/Variables.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

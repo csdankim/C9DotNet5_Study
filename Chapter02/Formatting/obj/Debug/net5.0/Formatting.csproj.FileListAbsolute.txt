@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/Formatting
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/Formatting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/ref/Formatting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/bin/Debug/net5.0/Formatting.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/ref/Formatting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache

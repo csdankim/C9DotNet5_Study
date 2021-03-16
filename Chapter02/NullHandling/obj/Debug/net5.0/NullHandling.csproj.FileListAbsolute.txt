@@ -3,3 +3,14 @@
 /mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfoInputs.cache
 /mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfo.cs
 /mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/ref/NullHandling.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/ref/NullHandling.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.genruntimeconfig.cache

@@ -17,7 +17,16 @@
 		},
 		{
 			"path": "../Code/Chapter02/NullHandling"
+		},
+		{
+			"path": "../Code/Chapter02/Formatting"
+		},
+		{
+			"path": "../Code/Chapter02/Arguments"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.fontSize": 12,
+		"terminal.integrated.fontSize": 12
+	}
 }

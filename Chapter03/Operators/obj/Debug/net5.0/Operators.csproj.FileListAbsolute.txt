@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/Operators
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/ref/Operators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/ref/Operators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

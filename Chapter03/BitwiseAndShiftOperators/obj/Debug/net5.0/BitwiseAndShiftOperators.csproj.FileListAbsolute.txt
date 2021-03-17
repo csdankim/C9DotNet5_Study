@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.genruntimeconfig.cache

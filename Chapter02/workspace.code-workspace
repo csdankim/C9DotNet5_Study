@@ -1,4 +1,32 @@
 {
-	"folders": [],
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Arguments"
+		},
+		{
+			"path": "Arrays"
+		},
+		{
+			"path": "Basics"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Numbers"
+		},
+		{
+			"path": "Variables"
+		}
+	],
 	"settings": {}
 }

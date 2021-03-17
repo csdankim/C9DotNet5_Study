@@ -1,0 +1,15 @@
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.deps.json
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.json
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.dev.json
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.dll
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/bin/Debug/net5.0/ref/SelectionStatements.dll
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.pdb
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csprojAssemblyReference.cache
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfo.cs
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.dll
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/ref/SelectionStatements.dll
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.pdb
+/Users/dankim/Documents/C9DotNet5_Study/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.genruntimeconfig.cache

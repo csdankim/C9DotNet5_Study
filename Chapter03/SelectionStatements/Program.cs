@@ -53,7 +53,27 @@ namespace SelectionStatements
             } // end of switch statement
 
             // Pattern matching with the switch statement
-            
+            string path = "/Users/dankim/Documents/C9DotNet5_Study/Chapter03";
+            Write("Press R for readonly or W for write: ");
+            ConsoleKeyInfo key = ReadKey();
+            WriteLine();
+            Stream s = null;
+            if (key.Key == ConsoleKey.R)
+            {
+                s = File.Open(
+                    Path.Combine(path, "file.txt"),
+                    FileMode.OpenOrCreate,
+                    FileAccess.Read
+                );
+            }
+            else 
+            {
+              s = File.Open(
+                Path.Combine(path, "file.txt"),
+                FileMode.OpenOrCreate,
+                FileAccess.Write
+              );
+            }
         }
     }
 }

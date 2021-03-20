@@ -16,5 +16,7 @@
 			"path": "SelectionStatements"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.tabSize": 2
+	}
 }

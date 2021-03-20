@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj": {}
+    "/Users/dankim/Documents/C9DotNet5_Study/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj": {
+    "/Users/dankim/Documents/C9DotNet5_Study/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
+        "projectUniqueName": "/Users/dankim/Documents/C9DotNet5_Study/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
         "projectName": "BitwiseAndShiftOperators",
-        "projectPath": "/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
-        "packagesPath": "/home/dankim/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/obj/",
+        "projectPath": "/Users/dankim/Documents/C9DotNet5_Study/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
+        "packagesPath": "/Users/dankim/.nuget/packages/",
+        "outputPath": "/Users/dankim/Documents/C9DotNet5_Study/Chapter03/BitwiseAndShiftOperators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dankim/.nuget/NuGet/NuGet.Config"
+          "/Users/dankim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

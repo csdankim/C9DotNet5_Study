@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iOZYinIOua435gRL+ssKjFbvtKHPzUxHvllFtln9y48PO6ieXLoO9aKFaMNz+Q3JE1Zmhp6ZjX8zmecrSKOg/Q==",
+  "dgSpecHash": "yHcZsK3TaLukpBGBkvTRdbBBcID4UTtgYELnnsHVj34g3wA08ABWrkAMWzVmC+rXzG/MuCX+7k8dxS/SGePmmQ==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/iuxda/Documents/Code/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
+  "projectFilePath": "/Users/dankim/Documents/C9DotNet5_Study/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

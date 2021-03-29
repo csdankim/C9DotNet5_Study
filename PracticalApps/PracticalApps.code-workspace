@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "NorthwindEntitiesLib"
+		},
+		{
+			"path": "NorthwindContextLib"
+		},
+		{
+			"path": "NorthwindWeb"
+		},
+		{
+			"path": "NorthwindEmployees"
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2
+	}
+}

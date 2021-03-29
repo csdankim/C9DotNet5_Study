@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.deps.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/ref/CastingConverting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/ref/CastingConverting.dll
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.pdb
+/mnt/c/Users/iuxda/Documents/Code/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.genruntimeconfig.cache

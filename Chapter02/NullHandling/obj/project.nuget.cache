@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iTBEgMZpEwwNiFJ7WUcAlKhHsaRpUVC2vwj9NKSz+62R3yWQu1Sw2Yh2/DIaLYiAR3Opp52rDIj9B1SvU6gSew==",
+  "dgSpecHash": "mJryPqDLH3NUMGY22ur5k8smxFxU4FFHR0n2EHjwJkYJhZVZjRqOG/aDsWRmo9u5PdbY5iPjCsWetjdzZQTYVA==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/iuxda/Documents/Code/Chapter02/NullHandling/NullHandling.csproj",
+  "projectFilePath": "c:\\Users\\iuxda\\Documents\\Code\\Chapter02\\NullHandling\\NullHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

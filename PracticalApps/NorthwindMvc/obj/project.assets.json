@@ -1454,24 +1454,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/dankim/.nuget/packages/": {}
+    "C:\\Users\\iuxda\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindMvc/NorthwindMvc.csproj",
+      "projectUniqueName": "C:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindMvc\\NorthwindMvc.csproj",
       "projectName": "NorthwindMvc",
-      "projectPath": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindMvc/NorthwindMvc.csproj",
-      "packagesPath": "/Users/dankim/.nuget/packages/",
-      "outputPath": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindMvc/obj/",
+      "projectPath": "C:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindMvc\\NorthwindMvc.csproj",
+      "packagesPath": "C:\\Users\\iuxda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindMvc\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/dankim/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\iuxda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1529,7 +1536,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

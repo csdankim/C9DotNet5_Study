@@ -1110,32 +1110,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/dankim/.nuget/packages/": {}
+    "C:\\Users\\iuxda\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+      "projectUniqueName": "c:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "projectName": "NorthwindEmployees",
-      "projectPath": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
-      "packagesPath": "/Users/dankim/.nuget/packages/",
-      "outputPath": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindEmployees/obj/",
+      "projectPath": "c:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+      "packagesPath": "C:\\Users\\iuxda\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/dankim/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\iuxda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
-              "projectPath": "/Users/dankim/Documents/C9DotNet5_Study/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+            "c:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+              "projectPath": "c:\\Users\\iuxda\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
             }
           }
         }
@@ -1167,7 +1174,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
